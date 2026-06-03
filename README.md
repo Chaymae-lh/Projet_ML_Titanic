@@ -21,13 +21,6 @@ L'objectif est de prédire si un passager du Titanic a survécu (classification 
 | KNN | 82.12% |
 | Forêt Aléatoire | 81.01% |
 
-##  Structure du projet
-Projet_ML_Titanic/
-├── README.md
-├── Projet_Titanic.ipynb # Notebook Jupyter complet
-├── Rapport_Titanic.pdf # Rapport (max 7 pages)
-└── train.csv # Dataset (optionnel)
-
 ##  Technologies
 - Python 3.10
 - Google Colab
